@@ -1,0 +1,10 @@
+Insert the following .jars from your Cassandra install:
+- apache-cassandra-2.0.14.jar
+- apache-cassandra-clientutil-2.0.14.jar
+- apache-cassandra-thrift-2.0.14.jar
+- guava-15.0.jar
+- libthrift-0.9.1.jar
+- log4j-1.2.16.jar
+- slf4j-api-1.7.2.jar
+- slf4j-log4j12-1.7.2.jar
+

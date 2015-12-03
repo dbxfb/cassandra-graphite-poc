@@ -1,0 +1,7 @@
+0) - See lib/README
+   - Have sbt with the sbt-assembly plugin
+1) $ sbt assembly
+2) $ cp target/scala-2.11/Singularity-assembly-0.0.1.jar $CASSANDRA_LIBS/
+3) $ service cassandra restart
+4) ???
+5) PROFIT!
